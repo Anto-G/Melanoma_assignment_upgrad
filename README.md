@@ -44,5 +44,5 @@ The data set contains the following diseases:
  - Write your findings after the model fit, see if the issues are resolved or not?
 
 ## Files
-1. Melanoma_Assignment_CNN.ipynb -  Includes all the codes applied
+1. Anto_George_nn.ipynb -  Includes all the codes applied
 2. Data Set Link -  Inludes link to both Train & Test Dataset
